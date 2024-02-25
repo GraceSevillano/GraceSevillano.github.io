@@ -129,7 +129,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Learning to Sum and Generate Images of Numbers  # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -282,15 +282,15 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["3D-Reconstruction", "Robotics", "Computer vision"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_categories: ["Computer vision"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sevillano]
+  first_name: [Grace, S.,Grace S. C.,G. S. C.,Sevillano G.]
 
   style: apa
   locale: en
