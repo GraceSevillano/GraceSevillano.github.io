@@ -32,3 +32,7 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Morales":
+  - firstname: ["Giorgio", "G."]
+    url: https://www.cs.montana.edu/users/moralesluna/

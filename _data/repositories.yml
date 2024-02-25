@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - GraceSevillano
+  #- alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - GraceSevillano/Nailfold-Capillary-Detection
+  - GraceSevillano/Advanced-Image-Analysis-Assignments
+  - GraceSevillano/Computer-Vision-Course-Assignments
+  - GraceSevillano/VIBOT-Scene-Segmentation-Labs
+  - GraceSevillano/Robotics-Project
+  - GraceSevillano/First_steps_MRI-world_Lab
+  - GraceSevillano/RTIC-project-Antoine-s-army
+  - GraceSevillano/Visual-Perception-Class-Project
