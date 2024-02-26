@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to be invited by my former faculty FIEE UNI to give a [talk on IA research.](https://www.facebook.com/ccppuni/videos/1535178176983129){:target="\_blank}
+Excited to be invited by my former faculty FIEE UNI to give a [talk on "Insights and strategies for securing the ABQ - France scholarship".](https://www.facebook.com/ccppuni/videos/1535178176983129){:target="\_blank}
