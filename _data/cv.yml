@@ -127,6 +127,6 @@
 - title: Technical Strenghts
   type: list
   contents:
-    - <u>Software:</u> Machine Learning Frameworks (PyTorch, Tensorflow/Keras), Python, C/C++, OpenCV, R, ROS,
+    - <u>Software :</u> Machine Learning Frameworks (PyTorch, Tensorflow/Keras), Python, C/C++, OpenCV, R, ROS,
       Matlab, SQL, LATEX, Eagle, LTspice, Proteus, Power BI.
-    - <u>Hardware:</u> Electronic instrumentation, Jetson Nano, Raspberry Pi, Arduino Platform, ESP32.
+    - <u>Hardware :</u> Electronic instrumentation, Jetson Nano, Raspberry Pi, Arduino Platform, ESP32.
