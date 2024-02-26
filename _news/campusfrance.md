@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited by Patronato UNI (Peru) and Campus France Peru to [talk about the "Alberto Benavides de la Quintana - Embassy of France" Scholarship and my personal pathway](https://www.facebook.com/watch/live/?ref=search&v=892106572374529){:target="\_blank}.
+Invited by Patronato UNI (Peru) and Campus France Peru to [talk about the "Alberto Benavides de la Quintana - Embassy of France" Scholarship and my personal pathway.](https://www.facebook.com/watch/live/?ref=search&v=892106572374529){:target="\_blank}
