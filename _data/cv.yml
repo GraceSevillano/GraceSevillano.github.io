@@ -124,19 +124,9 @@
       year: 2021
       description: Winner of a scholarship for the ”Advanced Program in Data Science & Global Skills”, hosted by MIT and Aporta.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Technical Strenghts
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Software:</u> Machine Learning Frameworks (PyTorch, Tensorflow/Keras), Python, C/C++, OpenCV, R, ROS,
+      Matlab, SQL, LATEX, Eagle, LTspice, Proteus, Power BI.
+    - <u>Hardware:</u> Electronic instrumentation, Jetson Nano, Raspberry Pi, Arduino Platform, ESP32.
