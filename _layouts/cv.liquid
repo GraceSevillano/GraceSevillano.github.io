@@ -8,21 +8,15 @@ layout: default
         {{ page.title }}
         <!-- Long Version Button -->
         {% if page.cv_pdf_long %}
-          <a
-            href="{{ page.cv_pdf_long | prepend: 'assets/pdf/' | relative_url}}"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="btn-cv-long"
-          >Long Version</a>
+          <a href="{{ page.cv_pdf_long | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="btn-cv-long">
+            <i class="fa-solid fa-file-pdf"></i>
+          </a>
         {% endif %}
         <!-- Short Version Button -->
         {% if page.cv_pdf_short %}
-          <a
-            href="{{ page.cv_pdf_short | prepend: 'assets/pdf/' | relative_url}}"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="btn-cv-short"
-          >Short Version</a>
+          <a href="{{ page.cv_pdf_short | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="btn-cv-short">
+            <i class="fa-solid fa-file-pdf"></i>
+          </a>
         {% endif %}
       </h1>
       {% if page.description %}

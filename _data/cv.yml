@@ -52,32 +52,32 @@
   contents:
     - title: Research Internship (Master thesis)
       institution: CNRS-AIST JRL (Joint Robotics Laboratory), IRL
-      year: 02/2024 - Present
+      year: 02/24 - Present
       description:
         - Conducted research on integrating dual-fisheye and color-depth vision for real-time, full-scale spherical image depth imaging. This work focuses on key areas like 3D vision and computer vision, leveraging neural network training for depth prediction in robotic environments.
     - title: Data Intelligence Specialist
       institution: Ferreyros S.A., Lima, Peru
-      year: 09/2021 - 09/2022
+      year: 09/21 - 09/22
       description:
         - Part of the analytics and reportability team that is responsible for processing, analyzing and modeling mining equipment health data using A.I.
     - title: Computer vision Engineer/Internship
       institution: TECH INNOVATION S.A.C., Lima, Peru
-      year: 05/2021 - 09/2021
+      year: 05/21 - 09/21
       description:
         - Collaborated in a team to develop real-time object detection systems for automatic identification of bags on conveyor belts.
     - title: Research Leader - Computer Vision
       institution: Lab Smart Machines CTIC-UNI (Information Technology and Communications Center), Lima, Peru
-      year: 01/2021 - 03/2022
+      year: 01/21 - 03/22
       description:
         - Team leader of the Rover farmer project (Berry-bot), in charge of the detection of pests and diseases in the crop (blueberries).
     - title: Electronic researcher
       institution: INAIGEM (National Institute for Research in Glaciers and Mountain Ecosystems), Huaraz, Peru
-      year: 07/2019 - 01/2021
+      year: 07/19 - 01/21
       description:
         - Developed an electronic prototype that detected avalanches' sound in real-time with A.I. algorithms.
     - title: Research Internship
       institution: INICTEL-UNI (National Institute of Research and Training in Telecommunications), Lima, Peru
-      year: 05/2018 - 05/2019
+      year: 05/18 - 05/19
       description:
         - Member of the team where a method of segmentation and measurement of areas covered by water palm in aerial images acquired by drones or UAV.
 
