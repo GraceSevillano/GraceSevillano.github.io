@@ -9,7 +9,6 @@ profile:
   image: prof.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Le Creusot, France</p>
     <p>University of Burgundy</p>
     <p>CNRS-AIST JRL IRL3218, Tsukuba, Ibaraki, Japan</p>
 
