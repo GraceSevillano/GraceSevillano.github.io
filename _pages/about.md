@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="#">Research Assistant at CNRS-AIST JRL (Joint Robotics Laboratory)</a>. B.Sc. in Electronics Engineering
+subtitle: <a href="https://unit.aist.go.jp/jrl-22022/en/members/member-sevillano.html" target="_blank">Research Assistant at CNRS-AIST JRL (Joint Robotics Laboratory)</a>. B.Sc. in Electronics Engineering
 og_image: https://gracesevillano.github.io/assets/img/prof.jpg
 profile:
   align: right
