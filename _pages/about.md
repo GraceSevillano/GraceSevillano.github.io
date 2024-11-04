@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.Sc. in Signal and Image Processing, specializing in Computer Vision and Robotics
+subtitle: M.Sc. in Signal and Image Processing, specializing in Computer Vision and Robotics | B.Sc. in Electronics Engineering
+
 og_image: https://gracesevillano.github.io/assets/img/prof.jpg
 profile:
   align: right
