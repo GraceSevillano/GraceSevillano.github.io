@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Proud to have defended my **Master's Thesis** titled **"Combined Dual-Fisheye and Color-Depth Vision for Real-Time Full-Scale Spherical Image Depth Imaging"** on August 30, 2024. This work focuses on advancing depth perception techniques for spherical imaging in robotic applications.
+Proud to have defended my **Master's Thesis** titled **"Combined Dual-Fisheye and Color-Depth Vision for Real-Time Full-Scale Spherical Image Depth Imaging"**. This work focuses on advancing depth perception techniques for spherical imaging in robotic applications.

@@ -124,9 +124,10 @@
       year: 2021
       description: Winner of a scholarship for the ”Advanced Program in Data Science & Global Skills”, hosted by MIT and Aporta.
 
-- title: Technical Strenghts
+- title: Technical Strengths
   type: list
   contents:
-    - <u>Software :</u> Machine Learning Frameworks (PyTorch, Tensorflow/Keras), Python, C/C++, OpenCV, R, ROS,
-      Matlab, SQL, LATEX, Eagle, LTspice, Proteus, Power BI.
+    - <u>Software :</u> Machine Learning Frameworks (PyTorch, TensorFlow/Keras, Scikit-learn), Python, C/C++, OpenCV, VISP, libPer, ROS, MATLAB, SQL, \LaTeX{}, Eagle, LTspice, Proteus, Power BI.
     - <u>Hardware :</u> Electronic instrumentation, Jetson Nano, Raspberry Pi, Arduino Platform, ESP32.
+    - <u>Key Competencies :</u> Computer Vision, 3D/4D Reconstruction, SLAM (Simultaneous Localization and Mapping), Point Cloud Processing, GANs (Generative Adversarial Networks).
+    - <u>Development Tools :</u> Git, Linux.
