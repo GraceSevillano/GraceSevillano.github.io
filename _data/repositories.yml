@@ -3,7 +3,7 @@ github_users:
   #- alshedivat
 
 github_repos:
-  - GraceSevillano/Nailfold-Capillary-Detection
+  - GraceSevillano/stella_vslam_ros
   - GraceSevillano/Advanced-Image-Analysis-Assignments
   - GraceSevillano/Computer-Vision-Course-Assignments
   - GraceSevillano/VIBOT-Scene-Segmentation-Labs
@@ -11,3 +11,4 @@ github_repos:
   - GraceSevillano/First_steps_MRI-world_Lab
   - GraceSevillano/RTIC-project-Antoine-s-army
   - GraceSevillano/Visual-Perception-Class-Project
+  - GraceSevillano/Nailfold-Capillary-Detection
