@@ -23,6 +23,7 @@
         #    - Sub-description 2.
     - title: BSc in Electronics Engineering
       institution: National University of Engineering (UNI), Lima, Peru
+      year: 
       #year: 2013 - 2018
       #description:
       #  - Description 1.
@@ -51,7 +52,7 @@
   type: time_table
   contents:
     - title: Research Internship (Master thesis)
-      institution: CNRS-AIST JRL (Joint Robotics Laboratory), IRL
+      institution: CNRS-AIST JRL (Joint Robotics Laboratory), IRL , Tsukuba, Japan
       year: 02/24 - 09/24
       description:
         - Conducted research on integrating dual-fisheye and color-depth vision for real-time, full-scale spherical image depth imaging. This work focuses on key areas like 3D vision and computer vision, leveraging neural network training for depth prediction in robotic environments.
