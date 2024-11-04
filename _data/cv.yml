@@ -13,7 +13,7 @@
   contents:
     - title: Msc in Signal and Image Processing with specialization in Computer Vision and Robotics (VIBOT)
       institution: University of Burgundy, Burgundy, France
-      year: 2022 - Present
+      year: 2022 - 2024
       description:
         #- <a>Advisor:</a> Prof. Kaushik Roy.
         #- Description 2.
@@ -23,7 +23,7 @@
         #    - Sub-description 2.
     - title: BSc in Electronics Engineering
       institution: National University of Engineering (UNI), Lima, Peru
-      year: 2013 - 2018
+      #year: 2013 - 2018
       #description:
       #  - Description 1.
       #  - Description 2.
@@ -52,7 +52,7 @@
   contents:
     - title: Research Internship (Master thesis)
       institution: CNRS-AIST JRL (Joint Robotics Laboratory), IRL
-      year: 02/24 - Present
+      year: 02/24 - 09/24
       description:
         - Conducted research on integrating dual-fisheye and color-depth vision for real-time, full-scale spherical image depth imaging. This work focuses on key areas like 3D vision and computer vision, leveraging neural network training for depth prediction in robotic environments.
     - title: Data Intelligence Specialist
