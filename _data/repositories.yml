@@ -4,6 +4,8 @@ github_users:
 
 github_repos:
   - GraceSevillano/stella_vslam_ros
+  - GraceSevillano/rospersp2equi 
+  - GraceSevillano/ros_dual2equi
   - GraceSevillano/Advanced-Image-Analysis-Assignments
   - GraceSevillano/Computer-Vision-Course-Assignments
   - GraceSevillano/VIBOT-Scene-Segmentation-Labs
