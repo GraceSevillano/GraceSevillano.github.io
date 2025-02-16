@@ -28,7 +28,7 @@ I hold a <b>B.Sc. in Electronics Engineering</b> from the <a href="https://www.u
 
 In <b>2022</b>, I was awarded the prestigious <b>"Alberto Benavides de la Quintana - French Embassy" graduate scholarship</b> by <a href="https://patronatouni.org.pe/" target="_blank">Patronato UNI</a> and the <a href="https://www.ambafrance.org/" target="_blank">French Embassy</a>, which supported my academic and research journey.  
 
-
+<p><b> </b></p>
 <p><b>My research interests include:</b></p>
 <ul>
   <li>3D Vision & SLAM for robotic perception</li>
