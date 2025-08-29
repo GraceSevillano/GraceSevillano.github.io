@@ -48,6 +48,20 @@
       description:
        - Postgraduate diploma focusing on Artificial Intelligence (AI), Machine Learning, Big Data, Python and Statistics.
 
+- title: Summer Schools & Workshops
+  type: time_table
+  contents:
+    - title: Montreal Robotics Summer School 2025
+      institution: Mila – Quebec AI Institute, Montreal, Canada
+      year: Aug. 2025
+      description:
+        - Selected among 25 participants worldwide.  
+        - Worked on **robot perception, SLAM, sim2real transfer**, and **policy-based control**.  
+        - Practical sessions included **Pick & Place with LoCoBot in Gazebo** and **Policy Learning on Unitree Go1 Quadruped**.  
+        - Integrated simulation-to-reality using NVIDIA Isaac Lab.  
+        - [Summer School Website](https://sites.google.com/mila.quebec/mrss/home?authuser=0)
+
+
 - title: Experience
   type: time_table
   contents:
