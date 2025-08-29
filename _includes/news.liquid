@@ -28,8 +28,6 @@
                   <a class="news-title" href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a>
                 {% else %}
                   <a class="news-title" href="{{ href | relative_url }}">{{ item.title }}</a>
-                  <!-- DEBUG: quita esta línea cuando funcione -->
-                  <small class="debug-url" style="opacity:.6; margin-left:.5rem">{{ href }}</small>
                 {% endif %}
               {% endif %}
             </td>
