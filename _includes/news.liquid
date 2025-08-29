@@ -21,12 +21,15 @@
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
+                {% assign href = item.permalink | default: item.url | default: item.path %}
                 {% if item.redirect %}
                   <a class="news-title" href="{{ item.redirect }}" target="_blank" rel="noopener">{{ item.title }}</a>
                 {% elsif item.link %}
                   <a class="news-title" href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a>
                 {% else %}
-                  <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                  <a class="news-title" href="{{ href | relative_url }}">{{ item.title }}</a>
+                  <!-- DEBUG: quita esta línea cuando funcione -->
+                  <small class="debug-url" style="opacity:.6; margin-left:.5rem">{{ href }}</small>
                 {% endif %}
               {% endif %}
             </td>
