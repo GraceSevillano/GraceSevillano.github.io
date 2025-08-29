@@ -21,7 +21,13 @@
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
-                <a class="news-title" href="{{ i2rl }}">{{ item.title }}</a>
+                {% if item.redirect %}
+                  <a class="news-title" href="{{ item.redirect }}" target="_blank" rel="noopener">{{ item.title }}</a>
+                {% elsif item.link %}
+                  <a class="news-title" href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a>
+                {% else %}
+                  <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {% endif %}
               {% endif %}
             </td>
           </tr>
