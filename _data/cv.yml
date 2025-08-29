@@ -128,7 +128,10 @@
 - title: Technical Strengths
   type: list
   contents:
-    - <u>Software :</u> Machine Learning Frameworks (PyTorch, TensorFlow/Keras, Scikit-learn), Python, C/C++, OpenCV, VISP, libPer, ROS, MATLAB, SQL, LaTeX, Eagle, LTspice, Proteus, Power BI.
-    - <u>Hardware :</u> Electronic instrumentation, Jetson Nano, Raspberry Pi, Arduino Platform, ESP32.
-    - <u>Key Competencies :</u> Computer Vision, 3D/4D Reconstruction, SLAM (Simultaneous Localization and Mapping), Point Cloud Processing, GANs (Generative Adversarial Networks).
-    - <u>Development Tools :</u> Git, Linux.
+    - <u>Programming & Tools:</u> Python, C/C++, MATLAB, SQL, LaTeX, Git, Linux, Power BI, Eagle, LTspice, Proteus.
+    - <u>ML/DL Frameworks:</u> PyTorch, TensorFlow/Keras, Scikit-learn, Docker.
+    - <u>Computer Vision:</u> OpenCV, ViSP, libPer.
+    - <u>Robotics & Perception:</u> ROS1/ROS2, Navigation, SLAM (Simultaneous Localization and Mapping), Depth Estimation, Point Cloud Processing.
+    - <u>Simulation & 3D:</u> 3D/4D Reconstruction, Sim2Real Transfer, Gazebo.
+    - <u>Learning Methods:</u> Machine Learning, Deep Learning, Generative Adversarial Networks (GANs), Policy Learning.
+    - <u>Hardware:</u> Jetson Nano, Raspberry Pi, Arduino Platform, ESP32, Electronic Instrumentation.
