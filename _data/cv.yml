@@ -4,16 +4,20 @@
     - name: Full Name
       value: Kimberly Grace Sevillano Colina
     #- name: Date of Birth
-    #  value: 14th March 1879
+    #  value: 14th March 2000
     - name: Languages
       value: English, Spanish, French (Intermediate)
 
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Robotics and Computer Vision
+      institution: University of Salamanca, Salamanca, Spain
+      year: 2026 - Ongoing
+
     - title: Msc in Signal and Image Processing with specialization in Computer Vision and Robotics (VIBOT)
       institution: University of Burgundy, Burgundy, France
-      year: 2022 - 2024
+      year: ""
       description:
         #- <a>Advisor:</a> Prof. Kaushik Roy.
         #- Description 2.
@@ -42,15 +46,30 @@
         #  contents:
         #    - Sub-description 1.
         #    - Sub-description 2.
-    - title: BI MASTER - Business Intelligence Master
-      institution: Laboratório de Inteligência Computacional Aplicada, Rio, Brasil
-      year: Sep. 2020
-      description:
-       - Postgraduate diploma focusing on Artificial Intelligence (AI), Machine Learning, Big Data, Python and Statistics.
+   # - title: BI MASTER - Business Intelligence Master
+   #   institution: Laboratório de Inteligência Computacional Aplicada, Rio, Brasil
+   #   year: Sep. 2020
+   #   description:
+   #    - Postgraduate diploma focusing on Artificial Intelligence (AI), Machine Learning, Big Data, Python and Statistics.
 
 - title: "Summer Schools & Workshops"
   type: time_table
   contents:
+    - title: WHERE — Walk the Future Summer School
+      institution: University of Trento, Trento, Italy
+      year: Sep. 2026
+      description:
+        - Training in legged robotics, locomotion, and model predictive control.
+        - Hands-on exercises with Quadruped-PyMPC in simulation and on a real quadruped robot.
+
+    - title: Machine Learning Summer School (MLSS) 2026
+      institution: Tübingen, Germany
+      year: Aug. - Sep. 2026
+      description:
+        - Attended from August 31 to September 11, 2026, with a full grant.
+        - Lectures and discussions on robot learning, optimization, probabilistic inference, and causal inference.
+        - Presented a research poster on multimodal perception and benchmarking for robotics in natural environments.
+
     - title: Montreal Robotics Summer School 2025
       institution: "Mila – Quebec AI Institute, Montreal, Canada"
       year: Aug. 2025
@@ -65,6 +84,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Marie Skłodowska-Curie Doctoral Researcher — WildBotics
+      institution: Fondazione Bruno Kessler (FBK), Trento, Italy
+      year: 07/26 - Present
+      description:
+        - Research on multimodal data fusion for advanced robotic perception and navigation in natural environments.
+        - Developing methods for localization and mapping to support robotics for wildlife conservation and monitoring.
+  
     - title: Research Internship (Master thesis)
       institution: CNRS-AIST JRL (Joint Robotics Laboratory), IRL, Tsukuba, Japan
       year: 02/24 - 09/24
@@ -119,6 +145,11 @@
 - title: Honors & Awards
   type: time_table
   contents:
+    - title: MLSS 2026 Registration Grant
+      institution: Machine Learning Summer School, Tübingen, Germany
+      year: "2026"
+      description: Selected as one of nine registration grant recipients for MLSS 2026.
+
     - title: UBFC International Masters Merit Scholarship
       institution: University of Burgundy
       year: 2023
